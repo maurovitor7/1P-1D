@@ -3,6 +3,12 @@ background-color: rgb(168, 57, 53);
 color: rgb(206, 58, 58);
 
 }
+
+
 h3{
     text-align: center;
+    color: aqua;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
 }
