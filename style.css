@@ -1,6 +1,6 @@
 body{
 background-color: rgb(0, 136, 141);
-color: rgb(149, 206, 58));
+color: rgb(149, 206, 58);
 
 }
 
@@ -31,6 +31,8 @@ a:hover{
     color: darkgreen;
     text-decoration: underline;
 
-
-
 }
+ section{
+        display: flex;
+}
+
